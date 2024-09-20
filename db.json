@@ -3,31 +3,31 @@
     {
       "id": 1,
       "name": "Buying",
-      "image": "buying",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
       "description": "We offer a comprehensive range of properties to help you find your dream home. Our expert agents guide you through every step of the buying process."
     },
     {
       "id": 2,
       "name": "Selling",
-      "image": "property2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
       "description": "Our selling services ensure your property reaches the right buyers. We handle marketing, negotiations, and closing deals to get you the best price."
     },
     {
       "id": 3,
       "name": "Renting",
-      "image": "property1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
       "description": "Find the perfect rental property with our extensive listings. We help tenants and landlords connect seamlessly."
     },
     {
       "id": 4,
       "name": "Property Management",
-      "image": "property2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
       "description": "Our property management services take care of all aspects of managing your property, from maintenance to tenant relations."
     },
     {
       "id": 5,
       "name": "Consultation",
-      "image": "property1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
       "description": "Get expert advice on real estate investments, market trends, and property development from our seasoned consultants."
     }
   ],
@@ -35,170 +35,220 @@
   "properties": [
     {
       "id": 1,
-      "name": "Property 1",
-      "image": "image1.jpg",
+      "name": "Blue Ridge",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
       "price": "$500,000",
       "bhk": "3 BHK",
       "area": "2000 sqft",
-      "location": "Location 1"
+      "location": "Pune, Maharashtra"
     },
     {
       "id": 2,
-      "name": "Property 2",
-      "image": "image2.jpg",
-      "price": "$750,000",
+      "name": "Elysium Heights",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
+      "price": "$600,000",
       "bhk": "4 BHK",
       "area": "2500 sqft",
-      "location": "Location 2"
+      "location": "Bangalore, Karnataka"
     },
     {
       "id": 3,
-      "name": "Property 3",
-      "image": "image3.jpg",
-      "price": "$600,000",
-      "bhk": "3 BHK",
-      "area": "2200 sqft",
-      "location": "Location 3"
+      "name": "Ocean View",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
+      "price": "$700,000",
+      "bhk": "5 BHK",
+      "area": "3000 sqft",
+      "location": "Chennai, Tamil Nadu"
     },
     {
       "id": 4,
-      "name": "Property 4",
-      "image": "image4.jpg",
-      "price": "$450,000",
-      "bhk": "2 BHK",
-      "area": "1800 sqft",
-      "location": "Location 4"
+      "name": "Green Valley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
+      "price": "$800,000",
+      "bhk": "6 BHK",
+      "area": "3500 sqft",
+      "location": "Mumbai, Maharashtra"
     },
     {
       "id": 5,
-      "name": "Property 5",
-      "image": "image5.jpg",
-      "price": "$700,000",
-      "bhk": "4 BHK",
-      "area": "2400 sqft",
-      "location": "Location 5"
+      "name": "Silver Oaks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
+      "price": "$550,000",
+      "bhk": "3 BHK",
+      "area": "2200 sqft",
+      "location": "Hyderabad, Telangana"
     },
     {
       "id": 6,
-      "name": "Property 6",
-      "image": "image6.jpg",
-      "price": "$800,000",
-      "bhk": "5 BHK",
-      "area": "3000 sqft",
-      "location": "Location 6"
+      "name": "Royal Enclave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
+      "price": "$650,000",
+      "bhk": "4 BHK",
+      "area": "2600 sqft",
+      "location": "Delhi"
     },
     {
       "id": 7,
-      "name": "Property 7",
-      "image": "image7.jpg",
-      "price": "$550,000",
-      "bhk": "3 BHK",
-      "area": "2100 sqft",
-      "location": "Location 7"
+      "name": "Sunrise Residency",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
+      "price": "$750,000",
+      "bhk": "5 BHK",
+      "area": "3100 sqft",
+      "location": "Gurgaon, Haryana"
     },
     {
       "id": 8,
-      "name": "Property 8",
-      "image": "image8.jpg",
-      "price": "$480,000",
-      "bhk": "2 BHK",
-      "area": "1700 sqft",
-      "location": "Location 8"
+      "name": "Hilltop Apartments",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
+      "price": "$850,000",
+      "bhk": "6 BHK",
+      "area": "3600 sqft",
+      "location": "Ahmedabad, Gujarat"
     },
     {
       "id": 9,
-      "name": "Property 9",
-      "image": "image9.jpg",
-      "price": "$520,000",
+      "name": "Skyline Towers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
+      "price": "$580,000",
       "bhk": "3 BHK",
-      "area": "2000 sqft",
-      "location": "Location 9"
+      "area": "2100 sqft",
+      "location": "Noida, Uttar Pradesh"
     },
     {
       "id": 10,
-      "name": "Property 10",
-      "image": "image10.jpg",
-      "price": "$900,000",
+      "name": "Noble Heights",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
+      "price": "$680,000",
+      "bhk": "4 BHK",
+      "area": "2700 sqft",
+      "location": "Lucknow, Uttar Pradesh"
+    },
+    {
+      "id": 11,
+      "name": "Aqua Marina",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
+      "price": "$780,000",
       "bhk": "5 BHK",
       "area": "3200 sqft",
-      "location": "Location 10"
+      "location": "Coimbatore, Tamil Nadu"
+    },
+    {
+      "id": 12,
+      "name": "Cedar Grove",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
+      "price": "$880,000",
+      "bhk": "6 BHK",
+      "area": "3700 sqft",
+      "location": "Jaipur, Rajasthan"
+    },
+    {
+      "id": 13,
+      "name": "Maple Heights",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
+      "price": "$590,000",
+      "bhk": "3 BHK",
+      "area": "2300 sqft",
+      "location": "Panchkula, Haryana"
+    },
+    {
+      "id": 14,
+      "name": "Lavender Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
+      "price": "$690,000",
+      "bhk": "4 BHK",
+      "area": "2800 sqft",
+      "location": "Visakhapatnam, Andhra Pradesh"
+    },
+    {
+      "id": 15,
+      "name": "Emerald City",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
+      "price": "$790,000",
+      "bhk": "5 BHK",
+      "area": "3300 sqft",
+      "location": "Indore, Madhya Pradesh"
+    },
+    {
+      "id": 16,
+      "name": "Coral Reef",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
+      "price": "$890,000",
+      "bhk": "6 BHK",
+      "area": "3800 sqft",
+      "location": "Mysore, Karnataka"
+    },
+    {
+      "id": 17,
+      "name": "Redwood Grove",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
+      "price": "$600,000",
+      "bhk": "3 BHK",
+      "area": "2400 sqft",
+      "location": "Nagpur, Maharashtra"
+    },
+    {
+      "id": 18,
+      "name": "Sapphire Heights",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
+      "price": "$700,000",
+      "bhk": "4 BHK",
+      "area": "2900 sqft",
+      "location": "Chandigarh"
+    },
+    {
+      "id": 19,
+      "name": "Golden Palms",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
+      "price": "$800,000",
+      "bhk": "5 BHK",
+      "area": "3400 sqft",
+      "location": "Surat, Gujarat"
+    },
+    {
+      "id": 20,
+      "name": "Crystal Bay",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
+      "price": "$900,000",
+      "bhk": "6 BHK",
+      "area": "3900 sqft",
+      "location": "Thane, Maharashtra"
     }
-  ],
+  ]
+  ,
 
   "blog": [
-      {
-        "id": 1,
-        "title": "How to Stage Your Home for a Quick Sale",
-        "description": "Learn the best tips and tricks for staging your home to attract buyers and sell it quickly in today’s market.",
-        "image": "https://images.unsplash.com/photo-1541032102531-c9f31f28372e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjVzdGF0ZSUyMGV4dGVyaW9yfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 2,
-        "title": "5 Ways to Increase Your Property’s Value",
-        "description": "Discover easy and effective ways to boost the value of your property before selling.",
-        "image": "https://images.unsplash.com/photo-1569065220-bb8e238a6480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBpbm5lcnpvcnxlbnwwfDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 3,
-        "title": "Understanding the Home Buying Process",
-        "description": "A comprehensive guide to navigating the home buying process from start to finish.",
-        "image": "https://images.unsplash.com/photo-1585850951221-4de425e40e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBsaXZpbmclMjByb29tfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 4,
-        "title": "The Benefits of Investing in Real Estate",
-        "description": "Why investing in real estate is a smart choice for your financial future.",
-        "image": "https://images.unsplash.com/photo-1566913464-043b4f601e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDdfZGVhbF9uZWlnaGJvcmh8ZW58MDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 5,
-        "title": "Top 10 Neighborhoods for Families",
-        "description": "Explore the best neighborhoods for families, including schools, parks, and community amenities.",
-        "image": "https://images.unsplash.com/photo-1601923665647-5f8b6f6e1c55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBob21lJTIwb2ZmaWNlfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 6,
-        "title": "How to Choose the Right Real Estate Agent",
-        "description": "Tips for selecting a real estate agent who will help you achieve your buying or selling goals.",
-        "image": "https://images.unsplash.com/photo-1596160159605-bdbe65e7f457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBhZ2VudHxlbnwwfDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 7,
-        "title": "Modern Home Decor Trends",
-        "description": "Stay up-to-date with the latest trends in modern home decor and design.",
-        "image": "https://images.unsplash.com/photo-1601987480921-c236b097e3a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBtb2Rlcm4lMjBraXRjaGVufGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 8,
-        "title": "Preparing Your Home for an Open House",
-        "description": "How to make your home look its best for an open house to attract potential buyers.",
-        "image": "https://images.unsplash.com/photo-1563252437-450e68e52c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBiZWFyb29tfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 9,
-        "title": "The Impact of Location on Property Value",
-        "description": "How the location of a property can affect its market value and appeal.",
-        "image": "https://images.unsplash.com/photo-1569349428-cdb0e226e1b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDdfcGFydHlfd2l0aCUyMGdhcmRlbl8wfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 10,
-        "title": "Navigating Real Estate Market Trends",
-        "description": "Insights into current real estate market trends and what they mean for buyers and sellers.",
-        "image": "https://images.unsplash.com/photo-1555685817-404c5e6f4908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBjb21tZXJjaWFsJTIwdmlld3xlbnwwfDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 11,
-        "title": "Tips for First-Time Home Buyers",
-        "description": "Essential advice and tips for those buying their first home.",
-        "image": "https://images.unsplash.com/photo-1589220459784-4f6d7f2f6407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBvcGVuJTIwaG91c2VlfGVufDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      },
-      {
-        "id": 12,
-        "title": "Understanding Mortgage Rates",
-        "description": "An overview of mortgage rates and how they can impact your home buying process.",
-        "image": "https://images.unsplash.com/photo-1562120786-7db054d4b4a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHJlYWwlMjBzaWduJTIwYW5kJTIwZGF0ZXxlbnwwfDE2NTUzNzk0MDE&ixlib=rb-1.2.1&q=80&w=400"
-      }
-    ],
+  {
+    "id": 1,
+    "title": "How to Stage Your Home for a Quick Sale",
+    "description": "Staging your home is a crucial part of selling it quickly in today's competitive real estate market. It involves creating a space that appeals to the majority of potential buyers, helping them envision themselves living in your property. The goal is to highlight your home's strengths, minimize its weaknesses, and make it feel like a welcoming, move-in-ready option. Effective staging includes decluttering, rearranging furniture, updating decor, and sometimes making small repairs or upgrades. Whether you're working with a professional stager or doing it yourself, understanding how to stage your home can increase its appeal and help it sell faster and at a higher price.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s"
+  },
+  {
+    "id": 2,
+    "title": "5 Ways to Increase Your Property’s Value",
+    "description": "Increasing your property's value is a smart move whether you're planning to sell soon or just want to maximize your investment. There are various ways to do this, and the best part is that they don't have to break the bank. Start with the basics like maintaining curb appeal—fresh paint, landscaping, and a clean entryway can make a huge difference. Then, consider interior upgrades such as kitchen or bathroom remodels, adding energy-efficient windows or appliances, or finishing a basement or attic. These changes not only add value but also improve the overall appeal of your home, making it more attractive to future buyers.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s"
+  },
+  {
+    "id": 3,
+    "title": "Understanding the Home Buying Process",
+    "description": "The home buying process can seem complex, especially for first-time buyers, but understanding each step can make it more manageable. The journey typically begins with determining your budget and getting pre-approved for a mortgage. From there, you'll work with a real estate agent to find homes that meet your criteria, followed by attending open houses and submitting offers. Once your offer is accepted, the closing process begins, which includes securing financing, conducting home inspections, and finalizing legal documents. Having a clear understanding of each stage will make the process smoother and less overwhelming, allowing you to make informed decisions along the way.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s"
+  },
+  {
+    "id": 4,
+    "title": "The Benefits of Investing in Real Estate",
+    "description": "Investing in real estate has long been considered a reliable way to build wealth and generate passive income. Unlike stocks and bonds, real estate provides tangible assets that can appreciate in value over time, while also offering rental income potential. It’s a versatile investment option that allows you to diversify your portfolio and hedge against inflation. Additionally, real estate investments come with several tax advantages, including deductions on mortgage interest, property taxes, and even depreciation. With the right strategy, investing in real estate can provide both short-term cash flow and long-term financial security.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s"
+  },
+  {
+    "id": 5,
+    "title": "Top 10 Neighborhoods for Families",
+    "description": "Choosing the right neighborhood is one of the most important decisions for families when buying a home. The best family-friendly neighborhoods offer a combination of good schools, safe streets, parks, and community amenities. For families with young children, access to daycare centers and playgrounds is essential, while older children may benefit from proximity to extracurricular activities, sports fields, and libraries. Some neighborhoods are known for their strong sense of community, with active neighborhood associations, annual events, and welcoming neighbors. Doing your research on what matters most to your family will ensure you find the perfect place to call home.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s"
+  }
+]
+,
 
     "bannercard" : [
       {

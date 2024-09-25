@@ -37,7 +37,7 @@
       "id": 1,
       "name": "Blue Ridge",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
-      "price": "$500,000",
+      "price": "500,000",
       "bhk": "3 BHK",
       "area": "2000 sqft",
       "location": "Pune, Maharashtra"
@@ -46,7 +46,7 @@
       "id": 2,
       "name": "Elysium Heights",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
-      "price": "$600,000",
+      "price": "600,000",
       "bhk": "4 BHK",
       "area": "2500 sqft",
       "location": "Bangalore, Karnataka"
@@ -55,7 +55,7 @@
       "id": 3,
       "name": "Ocean View",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
-      "price": "$700,000",
+      "price": "700,000",
       "bhk": "5 BHK",
       "area": "3000 sqft",
       "location": "Chennai, Tamil Nadu"
@@ -64,7 +64,7 @@
       "id": 4,
       "name": "Green Valley",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
-      "price": "$800,000",
+      "price": "800,000",
       "bhk": "6 BHK",
       "area": "3500 sqft",
       "location": "Mumbai, Maharashtra"
@@ -73,7 +73,7 @@
       "id": 5,
       "name": "Silver Oaks",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
-      "price": "$550,000",
+      "price": "550,000",
       "bhk": "3 BHK",
       "area": "2200 sqft",
       "location": "Hyderabad, Telangana"
@@ -82,7 +82,7 @@
       "id": 6,
       "name": "Royal Enclave",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
-      "price": "$650,000",
+      "price": "650,000",
       "bhk": "4 BHK",
       "area": "2600 sqft",
       "location": "Delhi"
@@ -91,7 +91,7 @@
       "id": 7,
       "name": "Sunrise Residency",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
-      "price": "$750,000",
+      "price": "750,000",
       "bhk": "5 BHK",
       "area": "3100 sqft",
       "location": "Gurgaon, Haryana"
@@ -100,7 +100,7 @@
       "id": 8,
       "name": "Hilltop Apartments",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
-      "price": "$850,000",
+      "price": "850,000",
       "bhk": "6 BHK",
       "area": "3600 sqft",
       "location": "Ahmedabad, Gujarat"
@@ -109,7 +109,7 @@
       "id": 9,
       "name": "Skyline Towers",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
-      "price": "$580,000",
+      "price": "580,000",
       "bhk": "3 BHK",
       "area": "2100 sqft",
       "location": "Noida, Uttar Pradesh"
@@ -118,7 +118,7 @@
       "id": 10,
       "name": "Noble Heights",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
-      "price": "$680,000",
+      "price": "680,000",
       "bhk": "4 BHK",
       "area": "2700 sqft",
       "location": "Lucknow, Uttar Pradesh"
@@ -127,7 +127,7 @@
       "id": 11,
       "name": "Aqua Marina",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
-      "price": "$780,000",
+      "price": "780,000",
       "bhk": "5 BHK",
       "area": "3200 sqft",
       "location": "Coimbatore, Tamil Nadu"
@@ -136,7 +136,7 @@
       "id": 12,
       "name": "Cedar Grove",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
-      "price": "$880,000",
+      "price": "880,000",
       "bhk": "6 BHK",
       "area": "3700 sqft",
       "location": "Jaipur, Rajasthan"
@@ -145,7 +145,7 @@
       "id": 13,
       "name": "Maple Heights",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
-      "price": "$590,000",
+      "price": "590,000",
       "bhk": "3 BHK",
       "area": "2300 sqft",
       "location": "Panchkula, Haryana"
@@ -154,7 +154,7 @@
       "id": 14,
       "name": "Lavender Park",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
-      "price": "$690,000",
+      "price": "690,000",
       "bhk": "4 BHK",
       "area": "2800 sqft",
       "location": "Visakhapatnam, Andhra Pradesh"
@@ -163,7 +163,7 @@
       "id": 15,
       "name": "Emerald City",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
-      "price": "$790,000",
+      "price": "790,000",
       "bhk": "5 BHK",
       "area": "3300 sqft",
       "location": "Indore, Madhya Pradesh"
@@ -172,7 +172,7 @@
       "id": 16,
       "name": "Coral Reef",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
-      "price": "$890,000",
+      "price": "890,000",
       "bhk": "6 BHK",
       "area": "3800 sqft",
       "location": "Mysore, Karnataka"
@@ -181,7 +181,7 @@
       "id": 17,
       "name": "Redwood Grove",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRmUkGYNM81mk-kZm_A2MQeGvnET69MCfog&s",
-      "price": "$600,000",
+      "price": "600,000",
       "bhk": "3 BHK",
       "area": "2400 sqft",
       "location": "Nagpur, Maharashtra"
@@ -190,7 +190,7 @@
       "id": 18,
       "name": "Sapphire Heights",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmEbt4t4bKc6CGlF_xIlLbzhYaAF4sfJE7A&s",
-      "price": "$700,000",
+      "price": "700,000",
       "bhk": "4 BHK",
       "area": "2900 sqft",
       "location": "Chandigarh"
@@ -199,7 +199,7 @@
       "id": 19,
       "name": "Golden Palms",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvtJNNonjabdjISph7dH1qb4YMje34Etl5Q&s",
-      "price": "$800,000",
+      "price": "800,000",
       "bhk": "5 BHK",
       "area": "3400 sqft",
       "location": "Surat, Gujarat"
@@ -208,7 +208,7 @@
       "id": 20,
       "name": "Crystal Bay",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLmcXjXsdfJAMQERsZTv3UuHJ2PjClxy-2g&s",
-      "price": "$900,000",
+      "price": "900,000",
       "bhk": "6 BHK",
       "area": "3900 sqft",
       "location": "Thane, Maharashtra"
